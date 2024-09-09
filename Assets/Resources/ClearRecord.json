@@ -1,0 +1,10 @@
+{
+  "Stages": 
+  [
+    { "id" : "Stage1", "clearTime" :  5.00 },
+    { "id" : "Stage2", "clearTime" :  5.00 },
+    { "id" : "Stage3", "clearTime" :  5.00 },
+    { "id" : "Stage4", "clearTime" :  5.00 },
+    { "id" : "Stage5", "clearTime" :  5.00 }
+  ]
+}
